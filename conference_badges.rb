@@ -13,7 +13,7 @@ end
 def assign_rooms(array)
   new_array = []
   array.each do |attendees|
-    new_array.each_with_index()
+    new_array.each_with_index(batch_badge_creator(attendees))
   end
 end
 
