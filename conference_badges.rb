@@ -3,6 +3,6 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(array)
-  badges.each do |attendees|
+  array.each do |attendees|
   end
 end
