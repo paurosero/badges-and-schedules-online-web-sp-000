@@ -12,6 +12,7 @@ end
 
 def assign_rooms(attendees)
   array.each do |attendees|
+  end
 end
 
 def printer(attendees)
