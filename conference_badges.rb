@@ -10,7 +10,8 @@ def batch_badge_creator(array)
     new_badge
 end
 
-def assign_rooms(attendees)
+def assign_rooms(array)
+
   array.each do |attendees|
   end
 end
